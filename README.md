@@ -106,6 +106,7 @@ print(y_prednew)
 
 ## Output:
 ![image](https://github.com/user-attachments/assets/4b18ad97-d6f4-45c2-9d06-3d33ca078089)
+```
 ![image](https://github.com/user-attachments/assets/d31257e8-dc97-45ee-915b-72f32b4e7107)
 ![image](https://github.com/user-attachments/assets/d25fe0f8-72a5-489d-be01-0983dfa1178f)
 
