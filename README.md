@@ -8,26 +8,31 @@ To write a program to implement the the Logistic Regression Using Gradient Desce
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
 ## Algorithm
-```
-1.import pandas module and import the required data set.
-2.Find the null values and count them.
-3.Count number of left values.
-4.From sklearn import LabelEncoder to convert string values to numerical values.
-5.From sklearn.model_selection import train_test_split.
-6.Assign the train dataset and test dataset. 
-7.From sklearn.tree import DecisionTreeClassifier.
-8.Use criteria as entropy.
-9.From sklearn import metrics.
-10.Find the accuracy of our model and predict the require values.
-```
+import pandas module and import the required data set.
 
+Find the null values and count them.
+
+Count number of left values.
+
+From sklearn import LabelEncoder to convert string values to numerical values.
+
+From sklearn.model_selection import train_test_split.
+
+Assign the train dataset and test dataset.
+
+From sklearn.tree import DecisionTreeClassifier.
+
+Use criteria as entropy.
+
+From sklearn import metrics.
+
+Find the accuracy of our model and predict the require values.
 ## Program:
 ```
 /*
 Program to implement the the Logistic Regression Using Gradient Descent.
 Developed by: RAMYA S
 RegisterNumber:  212222040130
-*/
 
 import pandas as pd
 import numpy as np
@@ -107,16 +112,10 @@ print(y_prednew)
 ```
 
 ## Output:
-
-![image](https://github.com/user-attachments/assets/4b18ad97-d6f4-45c2-9d06-3d33ca078089)
-
-![image](https://github.com/user-attachments/assets/d25fe0f8-72a5-489d-be01-0983dfa1178f)
-![image](https://github.com/user-attachments/assets/d31257e8-dc97-45ee-915b-72f32b4e7107)
-
-
-
-
-
+# accuracy:
+![image](https://github.com/user-attachments/assets/f2002f62-7c90-4cad-96cc-ef3b01f49315)
+# prediction:
+![Screenshot 2024-09-16 104601](https://github.com/user-attachments/assets/c26c7a14-c86f-4eeb-a378-5e341fe6feeb)
 
 
 ## Result:
